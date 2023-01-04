@@ -61,7 +61,7 @@
   cursor: pointer;
   outline: none;
   color: #ffffff;
-  border-radius: none;
+  border: none;
 }
 
 .gpt3__header-content__people {
